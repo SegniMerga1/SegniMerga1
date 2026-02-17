@@ -6,6 +6,21 @@ Hi there! 👋 I'm a student at Adama Science and Technology University.
 I'm passionate about web development and competitive programming.
 Always eager to learn, grow, and contribute in every way I can! 🚀
 
+## Current Focus
+
+- Full-stack web development
+
+## Contact
+
+[![Portfolio](https://cdn.simpleicons.org/googlechrome/0A66C2)](https://segnimerga1.github.io/personal-portfolio/)
+[![Telegram](https://cdn.simpleicons.org/telegram/26A5E4)](https://t.me/Sunerme)
+[![X](https://cdn.simpleicons.org/x/000000)](https://x.com/sanyii777)
+[![Instagram](https://cdn.simpleicons.org/instagram/E4405F)](https://instagram.com/sunerme_1)
+
+## Resume
+
+[View Resume](https://drive.google.com/file/d/1YZSYTXKEsMJ-sBvSbFZ7Xbo2PzoGVsjW/view?usp=drive_link)
+
 ## Tech Stack
 
 **Languages**
