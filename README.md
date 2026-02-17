@@ -12,10 +12,20 @@ Always eager to learn, grow, and contribute in every way I can! 🚀
 
 ## Contact
 
-[![Portfolio](https://cdn.simpleicons.org/googlechrome/0A66C2)](https://segnimerga1.github.io/personal-portfolio/)
-[![Telegram](https://cdn.simpleicons.org/telegram/26A5E4)](https://t.me/Sunerme)
-[![X](https://cdn.simpleicons.org/x/000000)](https://x.com/sanyii777)
-[![Instagram](https://cdn.simpleicons.org/instagram/E4405F)](https://instagram.com/sunerme_1)
+<p align="left">
+	<a href="https://segnimerga1.github.io/personal-portfolio/">
+		<img alt="Portfolio" src="https://cdn.simpleicons.org/googlechrome/0A66C2" width="32" height="32" />
+	</a>
+	<a href="https://t.me/Sunerme">
+		<img alt="Telegram" src="https://cdn.simpleicons.org/telegram/26A5E4" width="32" height="32" />
+	</a>
+	<a href="https://x.com/sanyii777">
+		<img alt="X" src="https://cdn.simpleicons.org/x/000000" width="32" height="32" />
+	</a>
+	<a href="https://instagram.com/sunerme_1">
+		<img alt="Instagram" src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" />
+	</a>
+</p>
 
 ## Resume
 
