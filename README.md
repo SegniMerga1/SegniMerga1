@@ -10,26 +10,42 @@ Always eager to learn, grow, and contribute in every way I can! 🚀
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=ts,js,python,cpp)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 
 **Frontend**
 
-![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,react,nextjs,redux)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/docs/Web/CSS)
+[![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org/)
 
 **Backend & Databases**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![Spring Boot](https://skillicons.dev/icons?i=spring)](https://spring.io/projects/spring-boot)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,md,vscode)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Markdown](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)
+[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SegniMerga1&show_icons=true&hide_title=true&include_all_commits=true&rank_icon=github&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SegniMerga1&show_icons=true&hide_title=true&include_all_commits=true&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SegniMerga1&layout=compact&langs_count=8&cache_seconds=86400)
 
 ## Activity Overview
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SegniMerga1)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SegniMerga1&area=true)
