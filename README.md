@@ -1,7 +1,7 @@
 # Hi there, I'm Segni Merga 👋
 
 ## 🚀 About Me
-Software Engineering student passionate about building scalable backend systems and cross-platform mobile applications. I specialize in Spring Boot microservices, Flutter mobile development, and modern web technologies.
+Software Engineering student passionate about building scalable backend systems and cross-platform mobile applications. I specialize in Spring Boot applications, Flutter mobile development, and modern web technologies.
 
 ## 🛠️ Tech Stack
 
