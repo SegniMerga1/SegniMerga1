@@ -1,6 +1,6 @@
 # Hi, I'm Segni Merga
 /*
- *
+ */
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=600&color=0A66C2&center=false&vCenter=false&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;Student+at+Adama+Science+and+Technology+University;Web+development+%26+competitive+programming)](https://git.io/typing-svg)
 
