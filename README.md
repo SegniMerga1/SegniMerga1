@@ -1,7 +1,7 @@
 # Hi, I'm Segni Merga
 /**
  *=
- nn
+ n
  m
  **/
 
